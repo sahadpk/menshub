@@ -1,0 +1,182 @@
+.catmain img{
+    
+    height: 290px;
+    object-fit: cover;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 50px;
+    margin-left: 30px;
+    overflow-x: scroll !important;
+    overflow-y: hidden !important;
+    text-overflow: scroll;
+}
+.catmain h2{
+    font-weight: 600;
+    color: red;
+    margin-top: 10px;
+}
+.slider-main{
+    background-color: rgb(220, 235, 240);
+    height: 550px;
+    width: 100%;
+}
+.img img{
+    margin-left: 450px !important;
+    height: 500px !important;
+    margin-top: 50px;
+}
+.img h1{
+  color: red !important;
+  text-align: start;
+  font-size: 52px;
+  font-weight: 500;
+  margin-top: -500px !important;
+  margin-left: 50px !important;
+}
+.img span{
+    text-align: start;
+    font-size: 32px;
+    font-weight: 500;
+    margin-left: -1065px;
+}
+.img p{
+    width: 50%;
+    text-align: start;
+    margin-left: 55px;
+
+}
+.img button{
+    height: 50px;
+    width: 200px !important;
+    border-radius: 100px;
+    margin-left: -1000px;
+    background-color: red !important;
+    color: white !important;
+    
+}
+.img button:hover{
+    
+    background-color: white !important;
+    color: black !important;
+}
+.shopmain{
+    background-color: rgb(220, 235, 240); 
+    height: 1350px !important;
+    margin-top: 50px;
+    width: 100%;
+}
+.shopmain h1{
+   padding-top: 30px !important;
+}
+.card-main img{
+   height: 400px;
+   object-fit: cover;
+  width: 350px;
+  margin-top: 50px;
+}
+.card-main p{
+   text-align: start;
+   margin-top: 10px;
+   font-weight:600;
+}
+.card-main2 img{
+   height: 400px;
+   object-fit: cover;
+  width: 350px;
+  margin-top: 50px; 
+}
+.card-main2 p{
+   text-align: start;
+   margin-top: 10px;
+   font-weight: 600;
+}
+.view-btn button{
+   height: 60px;
+   background-color: red;
+   color: white;
+   border-radius: 100px;
+   width: 250px;
+   margin-top: 50px;
+
+}
+.shop-main2{
+   height: 650px;
+}
+.shop-main2 h1{
+   font-weight: 600;
+   margin-top: 50px !important;
+}
+.shop-main2 img{
+   height: 400px;
+   object-fit: cover;
+   width: 260px;
+   margin-top: 50px;  
+}
+.card-main2 h4{
+   text-align: start;
+   margin-top: 10px;
+   font-weight: 600;
+   text-decoration: line-through;
+   color: red;
+}
+.card-main h4{
+   text-align: start;
+   margin-top: 10px;
+   font-weight:600;
+   text-decoration: line-through;
+   color: red;
+}
+.card-main2 h5{
+   text-align: start;
+   margin-top: 10px;
+   font-weight: 600;
+  
+}
+.card-main h5{
+   text-align: start;
+   margin-top: 10px;
+   font-weight:600;
+   
+}
+.shop-main2 h4{
+ color: red;
+}
+.shop-main2 button{
+   border-radius: 20px;
+   color: black;
+   width: 150px;
+   border: solid rgb(182, 174, 174) 1px;
+   font-weight: 500;
+ }
+ .shop-main2 button:hover{
+   color: white;
+   background-color: red;
+   font-weight: 500;
+ }
+.dealsec{
+   background-color: rgb(220, 235, 240); ;
+   height: 300px;
+}
+.dealsec h1{
+   padding-top: 100px !important;
+}
+.footer-one{
+   height: 350px;
+   background-color: rgb(220, 235, 240);
+   padding-top: 30px !important;
+}
+.footer-one hr{
+   width: 60px;
+   margin-left: 80px;
+   color: red !important;
+  
+}
+.footer-one p{
+   text-align: center;
+   font-size: 12px!important;
+}
+

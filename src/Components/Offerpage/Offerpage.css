@@ -1,0 +1,51 @@
+.offermain .col{
+    border-left: solid rgb(190, 187, 187) 1px !important;
+    border-right: solid rgb(190, 187, 187) 1px !important ;
+    border-top: solid rgb(190, 187, 187) 1px !important;
+    border-bottom: solid rgb(190, 187, 187) 1px !important;
+}
+
+
+.offermain img{
+    height: 250px;
+    object-fit: cover;
+   width: 200px;
+   margin-top: 50px;  
+  
+}
+.offermain p{
+    text-align: start;
+    margin-top: 10px;
+    font-weight:300;
+ }
+ .offermain h4{
+    text-align: start;
+    margin-top: 10px;
+    font-weight:300;
+    text-decoration: line-through;
+    color: red;
+ }
+ .offermain h5{
+    text-align: start;
+    margin-top: 10px;
+    font-weight:600;
+    
+ }
+ .footer-one{
+    height: 350px;
+    margin-top: 30px;
+    /* background-color: white !important; */
+    background-color: rgb(220, 235, 240);
+    padding-top: 30px !important;
+ }
+ .footer-one hr{
+    width: 60px;
+    margin-left: 80px;
+    color: red !important;
+   
+ }
+ .footer-one p{
+    text-align: center;
+    font-size: 12px!important;
+ }
+

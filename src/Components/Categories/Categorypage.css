@@ -1,0 +1,38 @@
+.catmain img{
+    
+    height: 160px;
+    object-fit: cover;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 50px;
+    margin-left: 30px;
+    overflow-x: scroll !important;
+    overflow-y: hidden !important;
+    text-overflow: scroll;
+}
+.catmain h2{
+    font-weight: 600;
+    color: red;
+    margin-top: 10px;
+}
+.footer-one{
+    height: 350px;
+    margin-top: 30px;
+    /* background-color: white !important; */
+    background-color: rgb(220, 235, 240);
+    padding-top: 30px !important;
+ }
+ .footer-one hr{
+    width: 60px;
+    margin-left: 80px;
+    color: red !important;
+   
+ }
+ .footer-one p{
+    text-align: center;
+    font-size: 12px!important;
+ }
